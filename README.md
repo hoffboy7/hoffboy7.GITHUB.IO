@@ -1,3 +1,4 @@
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hoffboy7/hoffboy7.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -12,7 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Hello World!
-My name is hoffboy7
+My name is hoffboy7 
+Creating a starting Hello World index page.
 ## Header 2
 ### Header 3
 
